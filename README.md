@@ -1,4 +1,4 @@
-# Masterclass_QIB2023
+# Masterclass QIB 2023
 Microbes, Microbiomes and Bioinformatics MRC DTP MRC CLIMB-BIG-DATA
 
 ## Pre-requisites for the Microbiome day, 28th July 2023
