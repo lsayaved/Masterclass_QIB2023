@@ -21,6 +21,9 @@ https://docs.docker.com/desktop/install/mac-install/
 docker pull meren/anvio:7.1_main_0522
 ````
 ### 2. Download the following dataset
+The dataset originated from the following paper:
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02924-x
+````bash
 curl -L https://ndownloader.figshare.com/files/27452192 \
      -o FMT_DONOR_A_AND_RECIPIENTS.tar.gz
-
+````bash
